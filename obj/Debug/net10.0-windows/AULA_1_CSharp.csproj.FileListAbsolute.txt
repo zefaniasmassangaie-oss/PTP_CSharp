@@ -1,0 +1,14 @@
+E:\Explorer\MAYUNDO\AULA_1_CSharp\bin\Debug\net10.0-windows\AULA_1_CSharp.exe
+E:\Explorer\MAYUNDO\AULA_1_CSharp\bin\Debug\net10.0-windows\AULA_1_CSharp.deps.json
+E:\Explorer\MAYUNDO\AULA_1_CSharp\bin\Debug\net10.0-windows\AULA_1_CSharp.runtimeconfig.json
+E:\Explorer\MAYUNDO\AULA_1_CSharp\bin\Debug\net10.0-windows\AULA_1_CSharp.dll
+E:\Explorer\MAYUNDO\AULA_1_CSharp\bin\Debug\net10.0-windows\AULA_1_CSharp.pdb
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\AULA_1_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\AULA_1_CSharp.AssemblyInfoInputs.cache
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\AULA_1_CSharp.AssemblyInfo.cs
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\AULA_1_CSharp.csproj.CoreCompileInputs.cache
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\AULA_1_CSharp.dll
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\refint\AULA_1_CSharp.dll
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\AULA_1_CSharp.pdb
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\AULA_1_CSharp.genruntimeconfig.cache
+E:\Explorer\MAYUNDO\AULA_1_CSharp\obj\Debug\net10.0-windows\ref\AULA_1_CSharp.dll
